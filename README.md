@@ -19,4 +19,3 @@
 
 ### Running the Operating System
 -run the main.java file in the src directory
-# myOS
