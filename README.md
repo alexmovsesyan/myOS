@@ -18,4 +18,6 @@
 -The program will start at speed slow, which can be changed throughout execution
 
 ### Running the Operating System
--run the main.java file in the src directory
+run the main.java file in the src directory
+
+![alt text](https://github.com/alexmovsesyan/smartGarden/blob/master/OSsnapshot.png)
