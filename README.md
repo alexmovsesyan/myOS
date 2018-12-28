@@ -20,4 +20,4 @@
 ### Running the Operating System
 run the main.java file in the src directory
 
-![alt text](https://github.com/alexmovsesyan/smartGarden/blob/master/OSsnapshot.png)
+![alt text](https://github.com/alexmovsesyan/myOS/blob/master/OSsnapshot.png)
